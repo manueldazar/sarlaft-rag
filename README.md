@@ -8,16 +8,14 @@ Sistema de consulta regulatoria basado en RAG (Retrieval-Augmented Generation) p
 
 ## Demo
 
-## Demo
-
 ### Definición: "¿Qué es la financiación del terrorismo?"
-![Definición](docs/images/demo_definicion.png)
+![Definición](doc/images/demo_definicion.png)
 
 ### Procedimiento: "¿Cuáles son los deberes respecto del funcionario responsable?"
-![Procedimiento](docs/images/demo_procedimiento.png)
+![Procedimiento](doc/images/demo_procedimiento.png)
 
 ### Fuera de scope: "¿Cuál es la TRM del dólar hoy?"
-![Fuera de scope](docs/images/demo_fuera_scope.png)
+![Fuera de scope](doc/images/demo_fuera_scope.png)
 
 | Caso | Descripción |
 |---|---|
