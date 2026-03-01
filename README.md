@@ -8,7 +8,16 @@ Sistema de consulta regulatoria basado en RAG (Retrieval-Augmented Generation) p
 
 ## Demo
 
-> _Screenshots pendientes de agregar._
+## Demo
+
+### Definición: "¿Qué es la financiación del terrorismo?"
+![Definición](docs/images/demo_definicion.png)
+
+### Procedimiento: "¿Cuáles son los deberes respecto del funcionario responsable?"
+![Procedimiento](docs/images/demo_procedimiento.png)
+
+### Fuera de scope: "¿Cuál es la TRM del dólar hoy?"
+![Fuera de scope](docs/images/demo_fuera_scope.png)
 
 | Caso | Descripción |
 |---|---|
@@ -109,7 +118,7 @@ El parser segmenta por secciones del documento, no por tokens. Reglas de post-pr
 | Chunks con hijos nunca se fusionan | Son puntos de entrada semánticos para el retrieval |
 | Chunks > 3000 chars se dividen en fronteras de párrafo | Ventana efectiva del modelo de embeddings |
 
-La segunda regla se descubrió necesaria durante la validación manual del chunking: el chunk `§2.1.2. Deberes respecto del funcionario responsable` (95 chars) era absorbido por el hermano anterior, haciendo que ningún chunk contuviera los términos de esa consulta. Ver [LECCIONES_APRENDIDAS.md](LECCIONES_APRENDIDAS.md).
+La segunda regla se descubrió necesaria después del primer deployment: el chunk `§2.1.2. Deberes respecto del funcionario responsable` (95 chars) era absorbido por el hermano anterior, haciendo que ningún chunk contuviera los términos de esa consulta. Ver [LECCIONES_APRENDIDAS.md](LECCIONES_APRENDIDAS.md).
 
 ### 2. Separación raw_content / content_with_prefix
 
@@ -135,6 +144,7 @@ Esta es una implementación del patrón *small-to-big retrieval* (cf. LlamaIndex
 | LLM | Llama 3.1 8B Q4_K_M vía Ollama | ollama 0.4.7 |
 | Embeddings | paraphrase-multilingual-MiniLM-L12-v2 | sentence-transformers 3.3.1 |
 | Vector store | ChromaDB (cosine similarity) | 0.6.3 |
+| Orquestación | LlamaIndex | 0.12.4 |
 | Interfaz | Streamlit | 1.42.0 |
 
 **Hardware de desarrollo:**
@@ -272,5 +282,3 @@ La relevancia es jerárquica: un chunk de §4.2.2.2 es relevante para una pregun
 ## Licencia
 
 Este proyecto es de portafolio. El corpus normativo pertenece a la Superintendencia Financiera de Colombia y es de acceso público.
-
-Desarrollado por [Manuel Daza Ramírez](https://www.linkedin.com/in/manueldazaramirez).
