@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "Q001",
+    "question": "¿Qué es lavado de activos según el SARLAFT?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.17"
+    ],
+    "retrieved_sections": [
+      "1.17.",
+      "4.",
+      "4.2.2.2.1.4.20.",
+      "4.2.2.2.1.6.3.",
+      "4.2.1.",
+      "4.2.1.1.",
+      "4.2.1.2.",
+      "4.2.1.4.",
+      "4.2.1.5.",
+      "4.2.1.6.",
+      "4.2.1.8."
+    ],
+    "retrieved_scores": [
+      0.6429957151412964,
+      0.5958586931228638,
+      0.5719194412231445,
+      0.5410699248313904,
+      0.5140417814254761,
+      0.5140417814254761,
+      0.5140417814254761,
+      0.5140417814254761,
+      0.5140417814254761,
+      0.5140417814254761,
+      0.5140417814254761
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6036,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.5732
+  },
+  {
+    "id": "Q002",
+    "question": "¿Qué es la financiación del terrorismo?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.16"
+    ],
+    "retrieved_sections": [
+      "1.16.",
+      "4.2.8.6.",
+      "0.",
+      "4.",
+      "2.1.",
+      "2.1.1.",
+      "2.1.2."
+    ],
+    "retrieved_scores": [
+      0.8625447750091553,
+      0.5731952582812699,
+      0.5580567121505737,
+      0.5430035591125488,
+      0.5379880666732788,
+      0.5379880666732788,
+      0.5379880666732788
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6646,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.615
+  },
+  {
+    "id": "Q003",
+    "question": "¿Qué es el beneficiario final?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.4"
+    ],
+    "retrieved_sections": [
+      "1.11.",
+      "1.4.",
+      "4.2.2.2.1.1.1.3.2.3.",
+      "4.2.2.2.1.1.1.2.",
+      "5.1.2.1."
+    ],
+    "retrieved_scores": [
+      0.6470975875854492,
+      0.6369713544845581,
+      0.5895599126815796,
+      0.5869408249855042,
+      0.5672077412352066
+    ],
+    "mrr": 0.5,
+    "first_hit_rank": 2,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6245,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6056
+  },
+  {
+    "id": "Q004",
+    "question": "¿Cuáles son los factores de riesgo del SARLAFT?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.15",
+      "4.1.1"
+    ],
+    "retrieved_sections": [
+      "4.1.1.",
+      "4.1.1.1.",
+      "4.1.1.2.",
+      "4.1.1.3.",
+      "4.1.2.",
+      "4.1.2.1.",
+      "1.15.",
+      "4.2.3.2.1.",
+      "4.2.3.2.1.2.",
+      "4.2.3.2.1.4.",
+      "4.2.2.3.5.",
+      "4.2.2.3.5.1.",
+      "4.2.2.3.5.2.",
+      "4.2.2.3.5.3.",
+      "4.2.2.3.5.4.",
+      "4.2.2.3.5.5.",
+      "4.2.2.3.5.6."
+    ],
+    "retrieved_scores": [
+      0.6921283602714539,
+      0.6921283602714539,
+      0.6921283602714539,
+      0.6921283602714539,
+      0.6878243088722229,
+      0.6878243088722229,
+      0.6551103591918945,
+      0.6518019437789917,
+      0.6518019437789917,
+      0.6518019437789917,
+      0.6495744585990906,
+      0.6495744585990906,
+      0.6495744585990906,
+      0.6495744585990906,
+      0.6495744585990906,
+      0.6495744585990906,
+      0.6495744585990906
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 0.5,
+    "context_relevance_at_3": 0.6921,
+    "precision_at_5": 0.8,
+    "recall_at_5": 0.5,
+    "context_relevance_at_5": 0.6913
+  },
+  {
+    "id": "Q005",
+    "question": "¿Qué son las personas expuestas políticamente (PEP)?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.21",
+      "4.2.2.2.1.5"
+    ],
+    "retrieved_sections": [
+      "4.2.2.2.1.5.1.",
+      "4.2.2.2.1.5.",
+      "4.2.2.2.1.5.2.",
+      "4.2.2.2.1.5.3.",
+      "4.2.2.2.1.5.4.",
+      "1.21.",
+      "1.22.",
+      "4.2.2.2.1.7.",
+      "4.2.2.2.1.7.1.",
+      "4.2.2.2.1.7.2."
+    ],
+    "retrieved_scores": [
+      0.8196096420288086,
+      0.6455464363098145,
+      0.6455464363098145,
+      0.6455464363098145,
+      0.6455464363098145,
+      0.6318210363388062,
+      0.545887291431427,
+      0.5411770343780518,
+      0.5411770343780518,
+      0.5411770343780518
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 0.5,
+    "context_relevance_at_3": 0.7036,
+    "precision_at_5": 1.0,
+    "recall_at_5": 0.5,
+    "context_relevance_at_5": 0.6804
+  },
+  {
+    "id": "Q006",
+    "question": "¿Qué es la segmentación en el SARLAFT?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.32",
+      "4.2.2.3.2"
+    ],
+    "retrieved_sections": [
+      "4.2.4.1.11.",
+      "4.2.4.3.2.9.",
+      "1.32.",
+      "4.2.3.2.1.2.",
+      "4.2.2.1.1."
+    ],
+    "retrieved_scores": [
+      0.7437971830368042,
+      0.732385516166687,
+      0.6034619212150574,
+      0.553883969783783,
+      0.5276166200637817
+    ],
+    "mrr": 0.3333333333333333,
+    "first_hit_rank": 3,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 0.5,
+    "context_relevance_at_3": 0.6932,
+    "precision_at_5": 0.2,
+    "recall_at_5": 0.5,
+    "context_relevance_at_5": 0.6322
+  },
+  {
+    "id": "Q007",
+    "question": "¿Qué es el riesgo inherente según el SARLAFT?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.30",
+      "4.1.2"
+    ],
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.1.2.1.",
+      "4.1.1.",
+      "4.1.1.1.",
+      "4.1.1.2.",
+      "4.1.1.3.",
+      "4.2.2.3.5.",
+      "4.2.2.3.5.1.",
+      "4.2.2.3.5.2.",
+      "4.2.2.3.5.3.",
+      "4.2.2.3.5.4.",
+      "4.2.2.3.5.5.",
+      "4.2.2.3.5.6.",
+      "1.15.",
+      "4.2.3.2.1.",
+      "4.2.3.2.1.2.",
+      "4.2.3.2.1.4."
+    ],
+    "retrieved_scores": [
+      0.7710500955581665,
+      0.7710500955581665,
+      0.7538214921951294,
+      0.7538214921951294,
+      0.7538214921951294,
+      0.7538214921951294,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7227915525436401,
+      0.7057625651359558,
+      0.6783895492553711,
+      0.6783895492553711,
+      0.6783895492553711
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 0.5,
+    "context_relevance_at_3": 0.7653,
+    "precision_at_5": 0.4,
+    "recall_at_5": 0.5,
+    "context_relevance_at_5": 0.7607
+  },
+  {
+    "id": "Q008",
+    "question": "¿Qué es el riesgo residual o neto?",
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "expected_sections": [
+      "1.31"
+    ],
+    "retrieved_sections": [
+      "1.31.",
+      "4.1.4.2.",
+      "4.2.2.3.5.4.",
+      "4.1.4.5.",
+      "4.2.2.3.5.1."
+    ],
+    "retrieved_scores": [
+      0.8082247972488403,
+      0.6376384496688843,
+      0.631890058517456,
+      0.6240580081939697,
+      0.5780209898948669
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6926,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.656
+  },
+  {
+    "id": "Q009",
+    "question": "¿Cuáles son las etapas del SARLAFT?",
+    "topic": "etapas",
+    "difficulty": "easy",
+    "expected_sections": [
+      "4.1",
+      "4.1.1",
+      "4.1.2",
+      "4.1.3",
+      "4.1.4"
+    ],
+    "retrieved_sections": [
+      "4.2.4.3.2.1.",
+      "4.1.",
+      "4.2.2.1.1.",
+      "4.2.2.",
+      "4.2.2.1.",
+      "4.2.2.2.",
+      "4.2.2.3.",
+      "4.2."
+    ],
+    "retrieved_scores": [
+      0.768130898475647,
+      0.7451784610748291,
+      0.7360230088233948,
+      0.7088400721549988,
+      0.7088400721549988,
+      0.7088400721549988,
+      0.7088400721549988,
+      0.6806462407112122
+    ],
+    "mrr": 0.5,
+    "first_hit_rank": 2,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7498,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7334
+  },
+  {
+    "id": "Q010",
+    "question": "¿En qué consiste la etapa de identificación del riesgo en el SARLAFT?",
+    "topic": "etapas",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.1.1"
+    ],
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.1.2.1.",
+      "4.1.1.",
+      "4.1.1.1.",
+      "4.1.1.2.",
+      "4.1.1.3.",
+      "4.2.2.3.5.",
+      "4.2.2.3.5.1.",
+      "4.2.2.3.5.2.",
+      "4.2.2.3.5.3.",
+      "4.2.2.3.5.4.",
+      "4.2.2.3.5.5.",
+      "4.2.2.3.5.6.",
+      "4.2.3.2.1.",
+      "4.2.3.2.1.2.",
+      "4.2.3.2.1.4."
+    ],
+    "retrieved_scores": [
+      0.8300057053565979,
+      0.8300057053565979,
+      0.7867366075515747,
+      0.7867366075515747,
+      0.7867366075515747,
+      0.7867366075515747,
+      0.7587220668792725,
+      0.7587220668792725,
+      0.7587220668792725,
+      0.7587220668792725,
+      0.7587220668792725,
+      0.7587220668792725,
+      0.7430167198181152,
+      0.7172118425369263,
+      0.7172118425369263,
+      0.7172118425369263
+    ],
+    "mrr": 0.3333333333333333,
+    "first_hit_rank": 3,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.8156,
+    "precision_at_5": 0.6,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.804
+  },
+  {
+    "id": "Q011",
+    "question": "¿Cómo se mide o evalúa el riesgo de LA/FT?",
+    "topic": "etapas",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.1.2"
+    ],
+    "retrieved_sections": [
+      "4.1.2.1.",
+      "4.1.1.2.",
+      "4.2.4.1.5.",
+      "3.",
+      "4.1.4.4."
+    ],
+    "retrieved_scores": [
+      0.7965311408042908,
+      0.7802798748016357,
+      0.7733680605888367,
+      0.7716947793960571,
+      0.7619932889938354
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7834,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7768
+  },
+  {
+    "id": "Q012",
+    "question": "¿Qué es el monitoreo del riesgo en el SARLAFT?",
+    "topic": "etapas",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.1.4",
+      "4.2.2.3"
+    ],
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.1.2.1.",
+      "4.2.2.3.5.6.",
+      "4.2.2.3.5.",
+      "4.2.2.3.5.1.",
+      "4.2.2.3.5.2.",
+      "4.2.2.3.5.3.",
+      "4.2.2.3.5.4.",
+      "4.2.2.3.5.5.",
+      "4.1.1.",
+      "4.1.1.1.",
+      "4.1.1.2.",
+      "4.1.1.3.",
+      "4.2.2.2.1.3.5."
+    ],
+    "retrieved_scores": [
+      0.7990654706954956,
+      0.7990654706954956,
+      0.785497784614563,
+      0.7422858476638794,
+      0.7422858476638794,
+      0.7422858476638794,
+      0.7422858476638794,
+      0.7422858476638794,
+      0.7422858476638794,
+      0.7413607239723206,
+      0.7413607239723206,
+      0.7413607239723206,
+      0.7413607239723206,
+      0.7347419857978821
+    ],
+    "mrr": 0.3333333333333333,
+    "first_hit_rank": 3,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 0.5,
+    "context_relevance_at_3": 0.7945,
+    "precision_at_5": 0.6,
+    "recall_at_5": 0.5,
+    "context_relevance_at_5": 0.7736
+  },
+  {
+    "id": "Q013",
+    "question": "¿Cuáles son los elementos del SARLAFT?",
+    "topic": "elementos",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2"
+    ],
+    "retrieved_sections": [
+      "4.2.3.2.",
+      "4.2.3.2.1.",
+      "4.2.3.2.3.",
+      "4.2.3.2.4.",
+      "4.2.2.1.1.",
+      "4.2.",
+      "4.2.4.1.11.",
+      "4.2.4.1.8."
+    ],
+    "retrieved_scores": [
+      0.6493212580680847,
+      0.6493212580680847,
+      0.6493212580680847,
+      0.6493212580680847,
+      0.6465790271759033,
+      0.6295789480209351,
+      0.6276808977127075,
+      0.6262305378913879
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6493,
+    "precision_at_5": 1.0,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6488
+  },
+  {
+    "id": "Q014",
+    "question": "¿Qué funciones tiene la junta directiva en el SARLAFT?",
+    "topic": "gobernanza",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.4.1"
+    ],
+    "retrieved_sections": [
+      "4.2.4.1.",
+      "4.2.1.2.",
+      "4.2.4.2.",
+      "4.2.4.2.1.",
+      "4.2.4.2.2.",
+      "4.2.4.2.3.",
+      "4.2.4.2.4.",
+      "4.2.4.2.5.",
+      "4.2.4.2.7.",
+      "4.2.4.2.8.",
+      "4.2.1.",
+      "4.2.1.1.",
+      "4.2.1.4.",
+      "4.2.1.5.",
+      "4.2.1.6.",
+      "4.2.1.8.",
+      "4.2.4."
+    ],
+    "retrieved_scores": [
+      0.8420765995979309,
+      0.777875542640686,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7661717534065247,
+      0.7478283047676086,
+      0.7478283047676086,
+      0.7478283047676086,
+      0.7478283047676086,
+      0.7478283047676086,
+      0.7478283047676086,
+      0.7475250959396362
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7954,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7837
+  },
+  {
+    "id": "Q015",
+    "question": "¿Qué funciones tiene el oficial de cumplimiento?",
+    "topic": "gobernanza",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.4.3",
+      "2.1.1"
+    ],
+    "retrieved_sections": [
+      "4.2.1.2.",
+      "2.1.1.",
+      "4.2.4.3.2.11.",
+      "2.1.2.",
+      "2.1.2.1.",
+      "2.1.2.2.",
+      "2.1.2.3.",
+      "2.1.2.4.",
+      "2.1.2.5.",
+      "5.4."
+    ],
+    "retrieved_scores": [
+      0.7355304956436157,
+      0.7297770977020264,
+      0.6958444118499756,
+      0.6607087850570679,
+      0.6607087850570679,
+      0.6607087850570679,
+      0.6607087850570679,
+      0.6607087850570679,
+      0.6607087850570679,
+      0.6360430431077239
+    ],
+    "mrr": 0.5,
+    "first_hit_rank": 2,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7204,
+    "precision_at_5": 0.4,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6965
+  },
+  {
+    "id": "Q016",
+    "question": "¿Qué es el conocimiento del cliente en el SARLAFT?",
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.2.2.1"
+    ],
+    "retrieved_sections": [
+      "4.2.2.2.1.[p1]",
+      "4.2.2.2.2.",
+      "4.2.2.2.1.5.2.",
+      "4.2.2.2.1.4.[p1]",
+      "4.2.2.2.1.3.4."
+    ],
+    "retrieved_scores": [
+      0.8563103079795837,
+      0.7031823396682739,
+      0.6884887218475342,
+      0.6787714958190918,
+      0.6767240762710571
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7493,
+    "precision_at_5": 0.8,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7207
+  },
+  {
+    "id": "Q017",
+    "question": "¿Cuándo se aplican procedimientos simplificados de conocimiento del cliente?",
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.2.2.1.4"
+    ],
+    "retrieved_sections": [
+      "4.2.2.2.1.4.[p1]",
+      "4.2.2.2.1.4.[p2]",
+      "4.2.2.1.8.",
+      "4.2.4.1.10.",
+      "4.2.2.2.1.[p1]"
+    ],
+    "retrieved_scores": [
+      0.8736998438835144,
+      0.8243962526321411,
+      0.7657850980758667,
+      0.7414318323135376,
+      0.7100774049758911
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.8213,
+    "precision_at_5": 0.6,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7831
+  },
+  {
+    "id": "Q018",
+    "question": "¿Cómo deben identificarse las personas jurídicas en el SARLAFT?",
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.2.2.1.1"
+    ],
+    "retrieved_sections": [
+      "4.2.4.2.",
+      "4.2.4.2.1.",
+      "4.2.4.2.2.",
+      "4.2.4.2.3.",
+      "4.2.4.2.4.",
+      "4.2.4.2.5.",
+      "4.2.4.2.7.",
+      "4.2.4.2.8.",
+      "5.1.2.2.2.",
+      "5.1.1.3.2.",
+      "4.2.2.2.1.1.1.1.",
+      "4.2.2.2.1.[p1]"
+    ],
+    "retrieved_scores": [
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.7220173478126526,
+      0.6829604695024317,
+      0.6692300895224264,
+      0.615795373916626,
+      0.6023352146148682
+    ],
+    "mrr": 0.09090909090909091,
+    "first_hit_rank": 11,
+    "precision_at_3": 0.0,
+    "recall_at_3": 0.0,
+    "context_relevance_at_3": 0.722,
+    "precision_at_5": 0.0,
+    "recall_at_5": 0.0,
+    "context_relevance_at_5": 0.722
+  },
+  {
+    "id": "Q019",
+    "question": "¿Qué son las señales de alerta en el SARLAFT?",
+    "topic": "procedimientos",
+    "difficulty": "easy",
+    "expected_sections": [
+      "4.2.2.3.1"
+    ],
+    "retrieved_sections": [
+      "4.2.2.3.1.",
+      "4.2.2.3.",
+      "4.1.1.",
+      "4.1.1.1.",
+      "4.1.1.2.",
+      "4.1.1.3.",
+      "4.1.2.",
+      "4.1.2.1.",
+      "4.2.3.2.1.4."
+    ],
+    "retrieved_scores": [
+      0.6514585018157959,
+      0.5610939264297485,
+      0.5479569435119629,
+      0.5479569435119629,
+      0.5479569435119629,
+      0.5479569435119629,
+      0.5393843650817871,
+      0.5393843650817871,
+      0.5331901907920837
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.5868,
+    "precision_at_5": 0.4,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.5713
+  },
+  {
+    "id": "Q020",
+    "question": "¿Qué es una operación inusual y cómo se identifica?",
+    "topic": "procedimientos",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.2.2.3"
+    ],
+    "retrieved_sections": [
+      "4.2.2.2.3.",
+      "4.2.2.2.3.1.",
+      "4.2.2.2.3.2.",
+      "4.2.7.1.1.",
+      "4.2.7.1.2.",
+      "4.2.2.1.7.",
+      "4.2.2.2.1.7.1.1."
+    ],
+    "retrieved_scores": [
+      0.6124815940856934,
+      0.6124815940856934,
+      0.6124815940856934,
+      0.5807722806930542,
+      0.5281773209571838,
+      0.5130795836448669,
+      0.487773060798645
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6125,
+    "precision_at_5": 0.6,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.5893
+  },
+  {
+    "id": "Q021",
+    "question": "¿Qué es una operación sospechosa y cuándo debe reportarse?",
+    "topic": "reportes",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.7.1.2",
+      "4.2.2.2.4",
+      "4.2.7.2.1"
+    ],
+    "retrieved_sections": [
+      "4.2.2.2.4.",
+      "4.2.2.1.7.",
+      "4.2.7.2.1.",
+      "4.2.7.1.2.",
+      "4.2.7.1.1."
+    ],
+    "retrieved_scores": [
+      0.6616567969322205,
+      0.6085187792778015,
+      0.5652817487716675,
+      0.5352404117584229,
+      0.5319100618362427
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 0.6667,
+    "context_relevance_at_3": 0.6118,
+    "precision_at_5": 0.6,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.5805
+  },
+  {
+    "id": "Q022",
+    "question": "¿Qué reportes deben enviarse a la UIAF?",
+    "topic": "reportes",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.7.2"
+    ],
+    "retrieved_sections": [
+      "4.2.7.2.",
+      "4.2.7.2.2.",
+      "4.2.7.2.4.",
+      "4.2.7.2.5.",
+      "4.2.7.2.7.",
+      "4.2.7.2.8.",
+      "4.2.7.2.9.",
+      "4.2.7.2.1.",
+      "4.2.7.2.6.",
+      "4.2.7.2.3.",
+      "4.2.6.4."
+    ],
+    "retrieved_scores": [
+      0.7760547399520874,
+      0.7760547399520874,
+      0.7760547399520874,
+      0.7760547399520874,
+      0.7760547399520874,
+      0.7760547399520874,
+      0.7760547399520874,
+      0.703429102897644,
+      0.7002257774603042,
+      0.6769708395004272,
+      0.6578558087348938
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7761,
+    "precision_at_5": 1.0,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7761
+  },
+  {
+    "id": "Q023",
+    "question": "¿Qué es el reporte de operaciones sospechosas (ROS)?",
+    "topic": "reportes",
+    "difficulty": "easy",
+    "expected_sections": [
+      "4.2.7.2.1"
+    ],
+    "retrieved_sections": [
+      "4.2.7.2.1.",
+      "4.2.2.2.4.",
+      "4.2.7.1.2.",
+      "4.2.2.2.1.1.3.6.",
+      "4.2.7.2.7."
+    ],
+    "retrieved_scores": [
+      0.7844398021697998,
+      0.5986348986625671,
+      0.5869788527488708,
+      0.5659675598144531,
+      0.5583507105127022
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6567,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6189
+  },
+  {
+    "id": "Q024",
+    "question": "¿Cuándo se exonera a un cliente del reporte de transacciones en efectivo?",
+    "topic": "reportes",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.7.2.3"
+    ],
+    "retrieved_sections": [
+      "4.2.7.2.3.",
+      "4.2.4.1.12.",
+      "4.2.7.2.2.",
+      "4.2.7.2.4.2.3.",
+      "4.2.2.2.1.4.4.5."
+    ],
+    "retrieved_scores": [
+      0.6114934682846069,
+      0.5889632701873779,
+      0.5701445937156677,
+      0.5590443041422541,
+      0.5493618249893188
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.5902,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.5758
+  },
+  {
+    "id": "Q025",
+    "question": "¿Qué son las sanciones financieras dirigidas?",
+    "topic": "sanciones",
+    "difficulty": "medium",
+    "expected_sections": [
+      "6"
+    ],
+    "retrieved_sections": [
+      "2.1.1.8.",
+      "4.2.2.1.6.",
+      "6.",
+      "4.2.4.3.2.11.",
+      "1.9."
+    ],
+    "retrieved_scores": [
+      0.780341625213623,
+      0.6771507263183594,
+      0.6370418488497146,
+      0.5892689824104309,
+      0.5139329433441162
+    ],
+    "mrr": 0.3333333333333333,
+    "first_hit_rank": 3,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6982,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6395
+  },
+  {
+    "id": "Q026",
+    "question": "¿Qué obligaciones tienen las entidades frente a las listas internacionales vinculantes?",
+    "topic": "sanciones",
+    "difficulty": "hard",
+    "expected_sections": [
+      "1.18",
+      "6"
+    ],
+    "retrieved_sections": [
+      "5.1.4.",
+      "4.2.2.1.4.",
+      "5.1.",
+      "5.1.1.",
+      "5.1.2.",
+      "5.1.3.",
+      "5.1.5.",
+      "2.",
+      "6."
+    ],
+    "retrieved_scores": [
+      0.6798899610826786,
+      0.6769706010818481,
+      0.6765512418513051,
+      0.6765512418513051,
+      0.6765512418513051,
+      0.6765512418513051,
+      0.6765512418513051,
+      0.6539770364761353,
+      0.6475478911311296
+    ],
+    "mrr": 0.1111111111111111,
+    "first_hit_rank": 9,
+    "precision_at_3": 0.0,
+    "recall_at_3": 0.0,
+    "context_relevance_at_3": 0.6778,
+    "precision_at_5": 0.0,
+    "recall_at_5": 0.0,
+    "context_relevance_at_5": 0.6773
+  },
+  {
+    "id": "Q027",
+    "question": "¿Qué reglas especiales aplican a las transferencias electrónicas internacionales?",
+    "topic": "transferencias",
+    "difficulty": "hard",
+    "expected_sections": [
+      "5.1"
+    ],
+    "retrieved_sections": [
+      "5.1.",
+      "5.1.1.",
+      "5.1.2.",
+      "5.1.5.",
+      "5.1.3.",
+      "5.1.4.",
+      "5.",
+      "5.1.2.2.",
+      "5.1.2.2.1.",
+      "5.1.2.2.2."
+    ],
+    "retrieved_scores": [
+      0.7715724051081851,
+      0.7715724051081851,
+      0.7715724051081851,
+      0.7715724051081851,
+      0.7472123063300357,
+      0.739577782189254,
+      0.727598466238445,
+      0.6802903504689288,
+      0.6802903504689288,
+      0.6802903504689288
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 1.0,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7716,
+    "precision_at_5": 1.0,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7667
+  },
+  {
+    "id": "Q028",
+    "question": "¿Qué es el enfoque basado en riesgo en la administración del LA/FT?",
+    "topic": "metodologia",
+    "difficulty": "hard",
+    "expected_sections": [
+      "4.1.3",
+      "4.2.1"
+    ],
+    "retrieved_sections": [
+      "4.2.1.5.",
+      "4.1.3.1.",
+      "4.2.4.1.5.",
+      "4.2.2.2.1.4.18.2.",
+      "4.2.2.2.1.4.18.2.1.",
+      "3."
+    ],
+    "retrieved_scores": [
+      0.7993624806404114,
+      0.7803068161010742,
+      0.7434664964675903,
+      0.7366443276405334,
+      0.7366443276405334,
+      0.7338961362838745
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.6667,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.7744,
+    "precision_at_5": 0.4,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.7593
+  },
+  {
+    "id": "Q029",
+    "question": "¿Qué requisitos de capacitación exige el SARLAFT?",
+    "topic": "capacitacion",
+    "difficulty": "medium",
+    "expected_sections": [
+      "4.2.8"
+    ],
+    "retrieved_sections": [
+      "4.2.8.",
+      "4.2.4.1.8.",
+      "4.2.4.2.5.",
+      "4.2.3.",
+      "4.2.3.2.1.",
+      "4.2.3.2.1.2.",
+      "4.2.3.2.1.4."
+    ],
+    "retrieved_scores": [
+      0.7232593289465379,
+      0.6502008438110352,
+      0.6211559772491455,
+      0.6002513766288757,
+      0.5936344265937805,
+      0.5936344265937805,
+      0.5936344265937805
+    ],
+    "mrr": 1.0,
+    "first_hit_rank": 1,
+    "precision_at_3": 0.3333,
+    "recall_at_3": 1.0,
+    "context_relevance_at_3": 0.6649,
+    "precision_at_5": 0.2,
+    "recall_at_5": 1.0,
+    "context_relevance_at_5": 0.6377
+  }
+]

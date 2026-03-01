@@ -1,0 +1,22 @@
+{
+  "timestamp": "20260227_153430",
+  "n_questions": 30,
+  "k_values": [
+    3,
+    5
+  ],
+  "retrieval": {
+    "n_questions": 29,
+    "precision_at_3": 0.4483,
+    "recall_at_3": 0.8333,
+    "context_relevance_at_3": 0.6956,
+    "precision_at_5": 0.3655,
+    "recall_at_5": 0.8966,
+    "context_relevance_at_5": 0.6684,
+    "mrr": 0.7644,
+    "hit_rate": 0.931,
+    "mrr_easy": 0.7576,
+    "mrr_medium": 0.7722,
+    "mrr_hard": 0.75
+  }
+}

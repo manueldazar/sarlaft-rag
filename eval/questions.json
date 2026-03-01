@@ -1,0 +1,272 @@
+[
+  {
+    "id": "Q001",
+    "question": "¿Qué es lavado de activos según el SARLAFT?",
+    "expected_sections": ["1.17"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición explícita en sección 1.17"
+  },
+  {
+    "id": "Q002",
+    "question": "¿Qué es la financiación del terrorismo?",
+    "expected_sections": ["1.16"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición explícita en sección 1.16"
+  },
+  {
+    "id": "Q003",
+    "question": "¿Qué es el beneficiario final?",
+    "expected_sections": ["1.4"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición explícita en sección 1.4"
+  },
+  {
+    "id": "Q004",
+    "question": "¿Cuáles son los factores de riesgo del SARLAFT?",
+    "expected_sections": ["1.15", "4.1.1"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición en 1.15; metodología de identificación en 4.1.1"
+  },
+  {
+    "id": "Q005",
+    "question": "¿Qué son las personas expuestas políticamente (PEP)?",
+    "expected_sections": ["1.21", "4.2.2.2.1.5"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición en 1.21; procedimientos especiales en 4.2.2.2.1.5"
+  },
+  {
+    "id": "Q006",
+    "question": "¿Qué es la segmentación en el SARLAFT?",
+    "expected_sections": ["1.32", "4.2.2.3.2"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición en 1.32; procedimiento en 4.2.2.3.2"
+  },
+  {
+    "id": "Q007",
+    "question": "¿Qué es el riesgo inherente según el SARLAFT?",
+    "expected_sections": ["1.30", "4.1.2"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición en 1.30 (muy corta); 4.1.2 discute riesgo inherente vs residual en contexto"
+  },
+  {
+    "id": "Q008",
+    "question": "¿Qué es el riesgo residual o neto?",
+    "expected_sections": ["1.31"],
+    "topic": "definiciones",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Definición explícita en sección 1.31"
+  },
+  {
+    "id": "Q009",
+    "question": "¿Cuáles son las etapas del SARLAFT?",
+    "expected_sections": ["4.1", "4.1.1", "4.1.2", "4.1.3", "4.1.4"],
+    "topic": "etapas",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Sección 4.1 lista las 4 etapas: identificación, medición, control, monitoreo"
+  },
+  {
+    "id": "Q010",
+    "question": "¿En qué consiste la etapa de identificación del riesgo en el SARLAFT?",
+    "expected_sections": ["4.1.1"],
+    "topic": "etapas",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.1.1 y subsecciones describen la etapa de identificación"
+  },
+  {
+    "id": "Q011",
+    "question": "¿Cómo se mide o evalúa el riesgo de LA/FT?",
+    "expected_sections": ["4.1.2"],
+    "topic": "etapas",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.1.2 describe la etapa de medición o evaluación"
+  },
+  {
+    "id": "Q012",
+    "question": "¿Qué es el monitoreo del riesgo en el SARLAFT?",
+    "expected_sections": ["4.1.4", "4.2.2.3"],
+    "topic": "etapas",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.1.4 define monitoreo; 4.2.2.3 implementa seguimiento/indicadores operativos"
+  },
+  {
+    "id": "Q013",
+    "question": "¿Cuáles son los elementos del SARLAFT?",
+    "expected_sections": ["4.2"],
+    "topic": "elementos",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2 lista los elementos: políticas, procedimientos, documentación, estructura, órganos de control, infraestructura tecnológica, divulgación, capacitación"
+  },
+  {
+    "id": "Q014",
+    "question": "¿Qué funciones tiene la junta directiva en el SARLAFT?",
+    "expected_sections": ["4.2.4.1"],
+    "topic": "gobernanza",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.4.1 lista funciones de la junta directiva"
+  },
+  {
+    "id": "Q015",
+    "question": "¿Qué funciones tiene el oficial de cumplimiento?",
+    "expected_sections": ["4.2.4.3", "2.1.1"],
+    "topic": "gobernanza",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.4.3 para entidades sujetas; 2.1.1 para entidades exceptuadas"
+  },
+  {
+    "id": "Q016",
+    "question": "¿Qué es el conocimiento del cliente en el SARLAFT?",
+    "expected_sections": ["4.2.2.2.1"],
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.2.2.1 define y desarrolla el conocimiento del cliente"
+  },
+  {
+    "id": "Q017",
+    "question": "¿Cuándo se aplican procedimientos simplificados de conocimiento del cliente?",
+    "expected_sections": ["4.2.2.2.1.4"],
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.2.2.1.4 establece condiciones para procedimientos simplificados"
+  },
+  {
+    "id": "Q018",
+    "question": "¿Cómo deben identificarse las personas jurídicas en el SARLAFT?",
+    "expected_sections": ["4.2.2.2.1.1"],
+    "topic": "conocimiento_cliente",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.2.2.1.1 regula identificación y verificación de personas jurídicas"
+  },
+  {
+    "id": "Q019",
+    "question": "¿Qué son las señales de alerta en el SARLAFT?",
+    "expected_sections": ["4.2.2.3.1"],
+    "topic": "procedimientos",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.2.3.1 define señales de alerta o alertas tempranas"
+  },
+  {
+    "id": "Q020",
+    "question": "¿Qué es una operación inusual y cómo se identifica?",
+    "expected_sections": ["4.2.2.2.3"],
+    "topic": "procedimientos",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.2.2.3 trata la identificación y análisis de operaciones inusuales"
+  },
+  {
+    "id": "Q021",
+    "question": "¿Qué es una operación sospechosa y cuándo debe reportarse?",
+    "expected_sections": ["4.2.7.1.2", "4.2.2.2.4", "4.2.7.2.1"],
+    "topic": "reportes",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Definición en 4.2.7.1.2; procedimiento en 4.2.2.2.4; reporte ROS en 4.2.7.2.1"
+  },
+  {
+    "id": "Q022",
+    "question": "¿Qué reportes deben enviarse a la UIAF?",
+    "expected_sections": ["4.2.7.2"],
+    "topic": "reportes",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.7.2 lista todos los reportes externos a la UIAF"
+  },
+  {
+    "id": "Q023",
+    "question": "¿Qué es el reporte de operaciones sospechosas (ROS)?",
+    "expected_sections": ["4.2.7.2.1"],
+    "topic": "reportes",
+    "difficulty": "easy",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.7.2.1 define y regula el ROS"
+  },
+  {
+    "id": "Q024",
+    "question": "¿Cuándo se exonera a un cliente del reporte de transacciones en efectivo?",
+    "expected_sections": ["4.2.7.2.3"],
+    "topic": "reportes",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.7.2.3 regula la exoneración de reportes de transacciones en efectivo"
+  },
+  {
+    "id": "Q025",
+    "question": "¿Qué son las sanciones financieras dirigidas?",
+    "expected_sections": ["6"],
+    "topic": "sanciones",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 6 regula las sanciones financieras dirigidas en el SARLAFT"
+  },
+  {
+    "id": "Q026",
+    "question": "¿Qué obligaciones tienen las entidades frente a las listas internacionales vinculantes?",
+    "expected_sections": ["1.18", "6"],
+    "topic": "sanciones",
+    "difficulty": "hard",
+    "is_in_corpus": true,
+    "notes": "Definición de listas en 1.18; obligaciones en sección 6"
+  },
+  {
+    "id": "Q027",
+    "question": "¿Qué reglas especiales aplican a las transferencias electrónicas internacionales?",
+    "expected_sections": ["5.1"],
+    "topic": "transferencias",
+    "difficulty": "hard",
+    "is_in_corpus": true,
+    "notes": "Sección 5.1 regula transferencias internacionales y sus requisitos"
+  },
+  {
+    "id": "Q028",
+    "question": "¿Qué es el enfoque basado en riesgo en la administración del LA/FT?",
+    "expected_sections": ["4.1.3", "4.2.1"],
+    "topic": "metodologia",
+    "difficulty": "hard",
+    "is_in_corpus": true,
+    "notes": "Metodología de control en 4.1.3; políticas en 4.2.1"
+  },
+  {
+    "id": "Q029",
+    "question": "¿Qué requisitos de capacitación exige el SARLAFT?",
+    "expected_sections": ["4.2.8"],
+    "topic": "capacitacion",
+    "difficulty": "medium",
+    "is_in_corpus": true,
+    "notes": "Sección 4.2.8 regula los requisitos de capacitación"
+  },
+  {
+    "id": "Q030",
+    "question": "¿Cuál es la tasa de interés del Banco de la República en 2024?",
+    "expected_sections": [],
+    "topic": "fuera_de_scope",
+    "difficulty": "easy",
+    "is_in_corpus": false,
+    "notes": "No está en el corpus SARLAFT — debe responder que no tiene información"
+  }
+]

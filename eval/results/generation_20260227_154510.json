@@ -1,0 +1,648 @@
+[
+  {
+    "id": "Q001",
+    "question": "¿Qué es lavado de activos según el SARLAFT?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el SARLAFT, el \"Lavado de activos\" se define como:\n\n\"Lavado de activos: es el conjunto de actividades encaminadas a ocultar el origen ilícito o a dar apariencia de legalidad a recursos obtenidos producto de la ejecución de actividades ilícitas.\" (Fragmento 1, Sección 1.17)\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 1. Definiciones > 1.17. Lavado de activos.",
+    "elapsed_seconds": 14.84,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "1.17.",
+      "4.",
+      "4.2.2.2.1.4.20.",
+      "4.2.2.2.1.6.3.",
+      "4.2.1."
+    ]
+  },
+  {
+    "id": "Q002",
+    "question": "¿Qué es la financiación del terrorismo?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1 (relevancia: 0,86), la financiación del terrorismo se define como:\n\n\"el conjunto de actividades encaminadas a canalizar recursos lícitos o ilícitos para promover, sufragar o patrocinar individuos, grupos o actividades terroristas.\" [CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección: 1. Definiciones > 1.16. Financiación del terrorismo]",
+    "elapsed_seconds": 3.88,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "1.16.",
+      "4.2.8.6.",
+      "0.",
+      "4.",
+      "2.1."
+    ]
+  },
+  {
+    "id": "Q003",
+    "question": "¿Qué es el beneficiario final?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 2, el beneficiario final son las personas naturales a las que se refiere el artículo 631-5 del Estatuto Tributario, o cualquier norma que lo modifique o sustituya.\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT\n[Sección: 1. Definiciones > 1.4. Beneficiario final]\n\nEn consecuencia, el beneficiario final se refiere a personas naturales y no a entidades jurídicas o estructuras sin personería jurídica.\n\nNo tengo información suficiente en la normativa consultada para determinar si el artículo 631-5 del Estatuto Tributario define explícitamente qué personas naturales son consideradas beneficiarios finales.",
+    "elapsed_seconds": 5.3,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": true,
+    "no_info_correct": false,
+    "retrieved_sections": [
+      "1.11.",
+      "1.4.",
+      "4.2.2.2.1.1.1.3.2.3.",
+      "4.2.2.2.1.1.1.2.",
+      "5.1.2.1."
+    ]
+  },
+  {
+    "id": "Q004",
+    "question": "¿Cuáles son los factores de riesgo del SARLAFT?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 3 (relevancia: 0.66), los factores de riesgo del SARLAFT son definidos en la Sección 1.15, y se establecen como:\n\n\"1.15. Factores de riesgo: son los agentes generadores del riesgo de LA/FT. Para efectos del SARLAFT las entidades vigiladas deben tener en cuenta como mínimo los siguientes:\n\n1.15.1. Clientes y usuarios\n\n1.15.2. Productos\n\n1.15.3. Canales de distribución\n\n1.15.4. Jurisdicciones\"\n\nPor lo tanto, los factores de riesgo del SARLAFT son: clientes y usuarios, productos, canales de distribución y jurisdicciones.\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 1.15. Factores de riesgo.",
+    "elapsed_seconds": 6.17,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": false,
+    "hallucinated_sections": [
+      "0.66"
+    ],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.1.1.",
+      "4.1.2.",
+      "1.15.",
+      "4.2.3.2.1.",
+      "4.2.2.3.5."
+    ]
+  },
+  {
+    "id": "Q005",
+    "question": "¿Qué son las personas expuestas políticamente (PEP)?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1, se define que \"El concepto de Personas Expuestas Políticamente (PEP) comprende a las personas expuestas políticamente y a las personas expuestas políticamente extranjeras definidas en el Decreto 1081 de 2015, y demás normas que lo modifiquen, complementen, sustituyan o adicionen.\"\n\nAdemás, según el Fragmento 2, se establece que \"Personas expuestas políticamente: corresponde a las personas definidas en el artículo 2.1.4.2.3. del Decreto 1081 de 2015, y demás normas que lo modifiquen, complementen, sustituyan o adicionen.\"\n\nPor tanto, la respuesta es:\n\n\"Las Personas Expuestas Políticamente (PEP) son aquellas personas definidas en el artículo 2.1.4.2.3. del Decreto 1081 de 2015 y demás normas que lo modifiquen, complementen, sustituyan o adicionen.\" [Fuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.1.5.1.]",
+    "elapsed_seconds": 8.1,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": false,
+    "hallucinated_sections": [
+      "2.1.4.2.3",
+      "2.1.4.2.3"
+    ],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.1.5.1.",
+      "1.21.",
+      "1.22.",
+      "4.2.2.2.1.7.",
+      "4.2.2.2.1.7.1."
+    ]
+  },
+  {
+    "id": "Q006",
+    "question": "¿Qué es la segmentación en el SARLAFT?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "La segmentación en el SARLAFT se define como \"el proceso por medio del cual se lleva a cabo la separación de elementos en grupos homogéneos al interior de ellos y heterogéneos entre ellos\" (Fragmento 3, Sección 1.32. Segmentación).\n\nAdemás, se menciona que las metodologías para la segmentación deben ser contempladas en el Manual de Procedimientos del SARLAFT (Fragmento 4, Sección 4.2.3.2.1.2) y que estas metodologías también deben incluir la identificación, medición y control del riesgo de LA/FT (Fragmento 4, Sección 4.2.3.2.1.2).\n\nPor lo tanto, la segmentación en el SARLAFT se refiere a un proceso sistemático para agrupar elementos en categorías homogéneas con el fin de identificar y medir riesgos asociados al lavado de activos y financiación del terrorismo.\n\n(Fuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 1.32. Segmentación)",
+    "elapsed_seconds": 7.49,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.4.1.11.",
+      "4.2.4.3.2.9.",
+      "1.32.",
+      "4.2.3.2.1.2.",
+      "4.2.2.1.1."
+    ]
+  },
+  {
+    "id": "Q007",
+    "question": "¿Qué es el riesgo inherente según el SARLAFT?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el SARLAFT, el riesgo inherente se refiere a \"los riesgos de LA/FT inherentes al desarrollo de su actividad\" (Fragmento 2: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.1. Identificación).\n\nAdemás, el riesgo inherente se define como \"los factores de riesgo y los riesgos asociados a los cuales se ven expuestas con relación al riesgo de LA/FT\" (Fragmento 2: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.1. Identificación).\n\nEn cuanto a la medición del riesgo inherente, el SARLAFT establece que las entidades vigiladas deben \"medir la probabilidad de ocurrencia del riesgo inherente de LA/FT frente a cada uno de los factores de riesgo\" (Fragmento 1: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.2. Medición o evaluación).\n\nPor lo tanto, el riesgo inherente según el SARLAFT se refiere a los factores de riesgo y los riesgos asociados que son inherentes al desarrollo de la actividad de las entidades vigiladas, y debe ser medido en términos de probabilidad de ocurrencia.\n\nReferencia normativa: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Secciones 4.1.1. Identificación y 4.1.2. Medición o evaluación.",
+    "elapsed_seconds": 10.65,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.1.1.",
+      "4.2.2.3.5.",
+      "1.15.",
+      "4.2.3.2.1."
+    ]
+  },
+  {
+    "id": "Q008",
+    "question": "¿Qué es el riesgo residual o neto?",
+    "topic": "definiciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1, la definición del Riesgo Residual o Neto se encuentra en la Sección 1.31 de la Parte I, Título IV, Capítulo IV — SARLAFT.\n\n\"1.31. Riesgo residual o neto: es el nivel resultante del riesgo después de aplicar los controles.\" (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 1. Definiciones > 1.31. Riesgo residual o neto)\n\nPor lo tanto, el Riesgo Residual o Neto se refiere al nivel de riesgo que queda después de aplicar los controles para mitigarlo.",
+    "elapsed_seconds": 5.19,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "1.31.",
+      "4.1.4.2.",
+      "4.2.2.3.5.4.",
+      "4.1.4.5.",
+      "4.2.2.3.5.1."
+    ]
+  },
+  {
+    "id": "Q009",
+    "question": "¿Cuáles son las etapas del SARLAFT?",
+    "topic": "etapas",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 2, las etapas del SARLAFT que implementen las entidades vigiladas deben comprender como mínimo las siguientes:\n\n\"4.1. Etapas del SARLAFT\n\nEl SARLAFT que implementen las entidades vigiladas debe comprender como mínimo las siguientes etapas: \n4.1.1. Identificación\n4.1.2. Medición o evaluación\n4.1.3. Control\n4.1.4. Monitoreo\"\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4. Alcance del sistema de administración del riesgo de lavado d > 4.1. Etapas del SARLAFT",
+    "elapsed_seconds": 4.82,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.4.3.2.1.",
+      "4.1.",
+      "4.2.2.1.1.",
+      "4.2.2.",
+      "4.2."
+    ]
+  },
+  {
+    "id": "Q010",
+    "question": "¿En qué consiste la etapa de identificación del riesgo en el SARLAFT?",
+    "topic": "etapas",
+    "is_in_corpus": true,
+    "answer": "La etapa de identificación del riesgo en el SARLAFT consiste en permitir a las entidades vigiladas identificar los riesgos de LA/FT inherentes al desarrollo de su actividad, teniendo en cuenta los factores de riesgo definidos en el presente Capítulo (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.1. Identificación).\n\nEsta etapa debe realizarse previamente a eventos específicos como:\n\n* Lanzamiento o uso de cualquier producto\n* Uso de nuevas prácticas comerciales, incluyendo nuevos canales de prestación de servicios y el uso de nuevas tecnologías o tecnologías en desarrollo para productos nuevos o existentes\n* Modificación de las características del producto\n* Incursión en un nuevo mercado\n* Apertura de operaciones en nuevas jurisdicciones\n* Lanzamiento o modificación de los canales de distribución (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.1. Identificación).\n\nComo resultado de esta etapa, las entidades vigiladas deben estar en capacidad de identificar los factores de riesgo y los riesgos asociados a los cuales se ven expuestas con relación al riesgo de LA/FT (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.1. Identificación).",
+    "elapsed_seconds": 9.28,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.1.1.",
+      "4.2.2.3.5.",
+      "4.2.2.3.5.6.",
+      "4.2.3.2.1."
+    ]
+  },
+  {
+    "id": "Q011",
+    "question": "¿Cómo se mide o evalúa el riesgo de LA/FT?",
+    "topic": "etapas",
+    "is_in_corpus": true,
+    "answer": "Según los fragmentos proporcionados, la medición o evaluación del riesgo de Lavado de Activos y Financiación del Terrorismo (LA/FT) se describe de la siguiente manera:\n\n* En el Fragmento 1, se establece que las metodologías de medición o evaluación deben ser utilizadas para determinar la probabilidad de ocurrencia del riesgo de LA/FT y su impacto en caso de materializarse frente a cada uno de los factores de riesgo y los riesgos asociados (Sección 4.1.2.1).\n* En el Fragmento 2, se menciona que las metodologías para la identificación del riesgo de LA/FT deben tener en cuenta el contexto interno y externo de la entidad vigilada (Sección 4.1.1.2).\n\nEn cuanto a cómo se mide o evalúa específicamente el riesgo de LA/FT, no hay una respuesta explícita en los fragmentos proporcionados. Sin embargo, se menciona que las metodologías de medición o evaluación deben ser utilizadas para determinar la probabilidad de ocurrencia del riesgo y su impacto (Fragmento 1).\n\nPor lo tanto, la respuesta es:\n\nLa medición o evaluación del riesgo de LA/FT se realiza a través de la aplicación de metodologías que determinen la probabilidad de ocurrencia del riesgo y su impacto frente a cada uno de los factores de riesgo y los riesgos asociados (Sección 4.1.2.1).\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.1.2.1.",
+    "elapsed_seconds": 10.67,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.1.2.1.",
+      "4.1.1.2.",
+      "4.2.4.1.5.",
+      "3.",
+      "4.1.4.4."
+    ]
+  },
+  {
+    "id": "Q012",
+    "question": "¿Qué es el monitoreo del riesgo en el SARLAFT?",
+    "topic": "etapas",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 2 (relevancia: 0,79), la matriz de riesgos debe permitir a las entidades vigiladas efectuar un permanente seguimiento al perfil de riesgo de LA/FT de la entidad (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.3.5.6).\n\nAdemás, el Fragmento 2 establece que los criterios metodológicos contemplados en el diseño/construcción de la matriz de riesgos deben ser revisados con una periodicidad mínima semestral (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.3.5.6).\n\nPor lo tanto, el monitoreo del riesgo en el SARLAFT se refiere a la capacidad de las entidades vigiladas para efectuar un permanente seguimiento al perfil de riesgo de LA/FT de la entidad mediante la matriz de riesgos y revisar los criterios metodológicos con una periodicidad mínima semestral.\n\nReferencia normativa: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.3.5.6.",
+    "elapsed_seconds": 8.66,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.1.2.",
+      "4.2.2.3.5.6.",
+      "4.2.2.3.5.",
+      "4.1.1.",
+      "4.2.2.2.1.3.5."
+    ]
+  },
+  {
+    "id": "Q013",
+    "question": "¿Cuáles son los elementos del SARLAFT?",
+    "topic": "elementos",
+    "is_in_corpus": true,
+    "answer": "Según el contexto normativo proporcionado, los elementos del SARLAFT se establecen en la Sección 4.2 de la Parte I, Título IV, Capítulo IV — SARLAFT.\n\nDe acuerdo con lo establecido en el Fragmento 3 (Sección: 4. Alcance del sistema de administración del riesgo de lavado d > 4.2. Elementos del SARLAFT), los elementos del SARLAFT que deben implementar las entidades vigiladas son:\n\n1. Políticas (4.2.1)\n2. Procedimientos (4.2.2)\n3. Documentación (4.2.3)\n4. Estructura organizacional (4.2.4)\n5. Órganos de control (4.2.5)\n6. Infraestructura tecnológica (4.2.6)\n7. Divulgación de información (4.2.7)\n8. Capacitación (4.2.8)\n\nPor lo tanto, los elementos del SARLAFT son:\n\n* Políticas\n* Procedimientos\n* Documentación\n* Estructura organizacional\n* Órganos de control\n* Infraestructura tecnológica\n* Divulgación de información\n* Capacitación\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.",
+    "elapsed_seconds": 8.82,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.3.2.",
+      "4.2.2.1.1.",
+      "4.2.",
+      "4.2.4.1.11.",
+      "4.2.4.1.8."
+    ]
+  },
+  {
+    "id": "Q014",
+    "question": "¿Qué funciones tiene la junta directiva en el SARLAFT?",
+    "topic": "gobernanza",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1 (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1. Funciones de la junta directiva u órgano que haga sus veces), las funciones de la junta directiva en el SARLAFT son:\n\n* Establecer las políticas del SARLAFT (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1.1).\n* Adoptar el código de ética en relación con el SARLAFT (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1.2).\n* Aprobar el manual de procedimientos y sus actualizaciones (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1.3).\n* Designar al oficial de cumplimiento y su respectivo suplente (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1.4).\n\nEs importante destacar que estas funciones son mínimas y se aplican en caso de que por la naturaleza jurídica de la entidad no exista una junta directiva u órgano que haga sus veces, en cuyo caso corresponderán al representante legal (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.4.1).",
+    "elapsed_seconds": 10.67,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.4.1.",
+      "4.2.1.2.",
+      "4.2.4.2.",
+      "4.2.1.",
+      "4.2.4."
+    ]
+  },
+  {
+    "id": "Q015",
+    "question": "¿Qué funciones tiene el oficial de cumplimiento?",
+    "topic": "gobernanza",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 3 (relevancia: 0.70), el oficial de cumplimiento principal y suplente tienen las siguientes funciones:\n\n\"4.2.4.3.2.11. Cumplir las obligaciones relacionadas con sanciones financieras dirigidas, que están establecidas en este Capítulo.\"\n\nAdemás, según el Fragmento 1 (relevancia: 0.74), el oficial de cumplimiento es parte del deber de los órganos de administración y control de asegurar el cumplimiento de los reglamentos internos y demás disposiciones relacionadas con el SARLAFT.\n\nNo obstante, no se mencionan específicamente las funciones del oficial de cumplimiento en los otros fragmentos. Sin embargo, según el Fragmento 2 (relevancia: 0.73), el funcionario responsable de la administración de las medidas de control diseñadas para prevenir el lavado de activos y financiación del terrorismo debe participar en el diseño de los procedimientos contra el LA/FT.\n\nPor lo tanto, se puede inferir que el oficial de cumplimiento tiene como funciones:\n\n* Cumplir las obligaciones relacionadas con sanciones financieras dirigidas (Fragmento 3).\n* Asegurar el cumplimiento de los reglamentos internos y demás disposiciones relacionadas con el SARLAFT (Fragmento 1).\n* Participar en el diseño de los procedimientos contra el LA/FT (Fragmento 2).\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT.",
+    "elapsed_seconds": 10.59,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": false,
+    "hallucinated_sections": [
+      "0.70",
+      "0.74",
+      "0.73"
+    ],
+    "declared_no_info": true,
+    "no_info_correct": false,
+    "retrieved_sections": [
+      "4.2.1.2.",
+      "2.1.1.",
+      "4.2.4.3.2.11.",
+      "5.4.",
+      "2.1.2.3."
+    ]
+  },
+  {
+    "id": "Q016",
+    "question": "¿Qué es el conocimiento del cliente en el SARLAFT?",
+    "topic": "conocimiento_cliente",
+    "is_in_corpus": true,
+    "answer": "Según los fragmentos proporcionados, el conocimiento del cliente en el SARLAFT se refiere a los procedimientos que deben seguir las entidades vigiladas para obtener un conocimiento efectivo, eficiente y oportuno de todos los clientes actuales y potenciales (Fragmento 1, Sección 4.2.2.2.1. Conocimiento del cliente).\n\nEstos procedimientos incluyen la recolección de información necesaria para adelantar el procedimiento del conocimiento del cliente, la verificación de la identidad del potencial cliente y la aprobación de la vinculación del mismo (Fragmento 1, Sección 4.2.2.2.1. Conocimiento del cliente).\n\nAdemás, las entidades deben conocer a fondo las características particulares de las actividades económicas de sus clientes y las operaciones que estos realizan en los diferentes mercados (Fragmento 2, Sección 4.2.2.2.2. Conocimiento del mercado).\n\nEn cuanto a la identificación de personas expuestas políticamente (PEP), el SARLAFT debe contener mecanismos efectivos, eficientes y oportunos que permitan identificar a los clientes y/o potenciales clientes que detenten la calidad de PEP o tengan una relación con ellos (Fragmento 3, Sección 4.2.2.2.1.5.2.).\n\nFinalmente, las entidades pueden implementar procedimientos simplificados de conocimiento del cliente para operaciones, productos o servicios específicos, siempre y cuando se cumplan con los requisitos establecidos en el SARLAFT (Fragmento 4, Sección 4.2.2.2.1.4. Procedimientos simplificados de conocimiento del cliente).\n\nEn resumen, el conocimiento del cliente en el SARLAFT es un conjunto de procedimientos que deben seguir las entidades vigiladas para obtener un conocimiento efectivo, eficiente y oportuno de sus clientes actuales y potenciales.\n\nReferencias normativas:\n\n* Fragmento 1: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.1. Conocimiento del cliente.\n* Fragmento 2: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.2. Conocimiento del mercado.\n* Fragmento 3: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.1.5.2.\n* Fragmento 4: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.1.4. Procedimientos simplificados de conocimiento del cliente.",
+    "elapsed_seconds": 19.43,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.1.[p1]",
+      "4.2.2.2.2.",
+      "4.2.2.2.1.5.2.",
+      "4.2.2.2.1.4.[p1]",
+      "4.2.2.2.1.3.4."
+    ]
+  },
+  {
+    "id": "Q017",
+    "question": "¿Cuándo se aplican procedimientos simplificados de conocimiento del cliente?",
+    "topic": "conocimiento_cliente",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1 (4.2.2.2.1.4), los procedimientos simplificados de conocimiento del cliente se pueden aplicar para las operaciones, productos o servicios que se encuentran listados en este subnumeral.\n\nAdemás, según el Fragmento 2 (4.2.2.2.1.4), los procedimientos simplificados de conocimiento del cliente implican un tratamiento diferencial de las entidades vigiladas en las gestiones de conocimiento de sus clientes, poblamiento de la base de datos y el respectivo monitoreo de los factores de riesgo.\n\nEn cuanto a cuando se aplican estos procedimientos, según el Fragmento 2 (4.2.2.2.1.4), los procedimientos simplificados de conocimiento del cliente se aplican para los siguientes trámites y productos:\n\n* Operaciones realizadas con organismos multilaterales (Fragmento 2: 4.2.2.2.1.4.1).\n* Los procedimientos simplificados de conocimiento del cliente implican un tratamiento diferencial de las entidades vigiladas en las gestiones de conocimiento de sus clientes, poblamiento de la base de datos y el respectivo monitoreo de los factores de riesgo (Fragmento 2: 4.2.2.2.1.4).\n\nEn resumen, según los fragmentos anteriores, los procedimientos simplificados de conocimiento del cliente se aplican para las operaciones, productos o servicios listados en el subnumeral 4.2.2.2.1.4 y para los trámites y productos mencionados en el Fragmento 2 (4.2.2.2.1.4.1).\n\nReferencia normativa exacta: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4. Alcance del sistema de administración del riesgo de lavado d > 4.2. Elementos del SARLAFT > 4.2.2. Procedimientos > 4.2.2.2. Mecanismos > 4.2.2.2.1. Conocimiento del cliente > 4.2.2.2.1.4. Procedimientos simplificados de conocimiento del cliente (Fragmento 1 y Fragmento 2).",
+    "elapsed_seconds": 16.53,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.1.4.[p1]",
+      "4.2.2.2.1.4.[p2]",
+      "4.2.2.1.8.",
+      "4.2.4.1.10.",
+      "4.2.2.2.1.[p1]"
+    ]
+  },
+  {
+    "id": "Q018",
+    "question": "¿Cómo deben identificarse las personas jurídicas en el SARLAFT?",
+    "topic": "conocimiento_cliente",
+    "is_in_corpus": true,
+    "answer": "Según los fragmentos proporcionados, para la identificación de personas jurídicas en el SARLAFT se deben seguir las siguientes pautas:\n\n* En el caso de transferencias internacionales a través de SWIFT (Fragmento 2), se requiere que las entidades beneficiarias obtengan la siguiente información: nombre o razón social, NIT, tipo y número de identificación del representante legal, domicilio, número telefónico, y número de cuenta o número de referencia de transacción. Además, cuando se actúa a través de mandatario, debe exigirse el nombre/s y apellido/s y tipo y número de identificación.\n* En el caso de transferencias internacionales a través de money remitters o cualquiera otro medio (Fragmento 1), se requiere que las entidades beneficiarias obtengan la siguiente información: nombre o razón social, NIT, tipo y número de identificación del representante legal, domicilio, número telefónico, y número de cuenta o número de referencia de transacción. Además, cuando se actúa a través de mandatario, debe exigirse el nombre/s y apellido/s y tipo y número de identificación.\n* En general, según el Capítulo I del Título II de la Parte I de la CBJ (Fragmento 4), las entidades vigiladas deben contar con políticas y procedimientos para identificar y verificar la identidad de los potenciales clientes, incluyendo personas jurídicas. Para ello, se pueden utilizar certificados de firma digital, biometría, mecanismos fuertes de autenticación, información disponible en bancos de datos administrados por operadores de información o cualquier otro mecanismo tecnológico que garantice la realización de una verificación efectiva de la identidad del potencial cliente.\n\nEn resumen, para la identificación de personas jurídicas en el SARLAFT se requiere obtener la siguiente información: nombre o razón social, NIT, tipo y número de identificación del representante legal, domicilio, número telefónico, y número de cuenta o número de referencia de transacción. Además, cuando se actúa a través de mandatario, debe exigirse el nombre/s y apellido/s y tipo y número de identificación.\n\nReferencias normativas:\n\n* CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 5.1.1.3.2.\n* CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 5.1.2.2.2.\n* CBJ SFC, Parte I, Título II de la Parte I de la CBJ, Capítulo I del Título II de la Parte I de la CBJ.",
+    "elapsed_seconds": 19.2,
+    "has_citation": true,
+    "correct_citation": false,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "5.1.2.2.2.",
+      "5.1.1.3.2.",
+      "4.2.4.2.",
+      "4.2.2.2.1.1.1.1.",
+      "4.2.2.2.1.[p1]"
+    ]
+  },
+  {
+    "id": "Q019",
+    "question": "¿Qué son las señales de alerta en el SARLAFT?",
+    "topic": "procedimientos",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1 (Sección: 4. Alcance del sistema de administración del riesgo de lavado d > 4.2. Elementos del SARLAFT > 4.2.2. Procedimientos > 4.2.2.3. Instrumentos > 4.2.2.3.1. Señales de alerta o alertas tempranas), las señales de alerta o alertas tempranas son:\n\n\"Son los hechos, situaciones, eventos, cuantías, indicadores cuantitativos y cualitativos, razones financieras y demás información que la entidad determine como relevante, a partir de los cuales se puede inferir oportuna y/o prospectivamente la posible existencia de un hecho o situación que escapa a lo que la entidad, en el desarrollo del SARLAFT, ha determinado como normal.\"\n\nAdemás, según el Fragmento 2 (Sección: 4. Alcance del sistema de administración del riesgo de lavado d > 4.2. Elementos del SARLAFT > 4.2.2. Procedimientos > 4.2.2.3. Instrumentos), las señales de alerta o alertas tempranas son uno de los instrumentos mínimos que debe contar el SARLAFT para operar de manera efectiva, eficiente y oportuna.\n\nPor lo tanto, las señales de alerta en el SARLAFT se refieren a la información relevante que permite inferir la posible existencia de un hecho o situación anormal que escape a lo normal determinado por la entidad en el desarrollo del SARLAFT.",
+    "elapsed_seconds": 11.8,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.3.1.",
+      "4.2.2.3.",
+      "4.1.1.",
+      "4.1.2.",
+      "4.2.3.2.1.4."
+    ]
+  },
+  {
+    "id": "Q020",
+    "question": "¿Qué es una operación inusual y cómo se identifica?",
+    "topic": "procedimientos",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1, una operación se considera como inusual cuando cumple, cuando menos, con las siguientes características:\n\n\"entendidas estas como aquellas transacciones que cumplen, cuando menos con las siguientes características:\"\n\nSin embargo, no se especifican explícitamente dichas características en el Fragmento 1. Sin embargo, se menciona que el SARLAFT debe permitir a las entidades establecer cuándo una operación se considera como inusual y contar con metodologías, modelos e indicadores cualitativos y/o cuantitativos de reconocido valor técnico para la oportuna detección de las operaciones inusuales.\n\nEn el Fragmento 3, se define una operación sospechosa como:\n\n\"constituye una operación sospechosa cualquier información relevante sobre manejo de activos, pasivos u otros recursos, cuya cuantía o características no guarden relación con la actividad económica de sus clientes, o sobre transacciones de sus usuarios que por su número, por las cantidades transadas o por las características particulares de las mismas, puedan conducir razonablemente a sospechar que los mismos están usando a la entidad para transferir, manejar, aprovechar o invertir dineros o recursos provenientes de actividades delictivas o destinados a su financiación.\"\n\nEn el Fragmento 4, se establece que el SARLAFT debe prever los procedimientos para la detección de operaciones inusuales y sospechosas.\n\nPor lo tanto, según los fragmentos anteriores, una operación inusual se identifica mediante metodologías, modelos e indicadores cualitativos y/o cuantitativos de reconocido valor técnico que permitan a las entidades establecer cuándo una operación se considera como inusual. Además, se puede inferir que una operación sospechosa es aquella que no guarden relación con la actividad económica del cliente o que pueda conducir razonablemente a sospechar que los mismos están usando a la entidad para transferir, manejar, aprovechar o invertir dineros o recursos provenientes de actividades delictivas o destinados a su financiación.\n\nReferencia normativa exacta: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.2.3. Identificación y análisis de operaciones inusuales.",
+    "elapsed_seconds": 16.54,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.3.",
+      "4.2.7.1.1.",
+      "4.2.7.1.2.",
+      "4.2.2.1.7.",
+      "4.2.2.2.1.7.1.1."
+    ]
+  },
+  {
+    "id": "Q021",
+    "question": "¿Qué es una operación sospechosa y cuándo debe reportarse?",
+    "topic": "reportes",
+    "is_in_corpus": true,
+    "answer": "Una operación sospechosa se define como cualquier información relevante sobre manejo de activos, pasivos u otros recursos, cuya cuantía o características no guarden relación con la actividad económica de sus clientes, o sobre transacciones de sus usuarios que por su número, por las cantidades transadas o por las características particulares de las mismas, puedan conducir razonablemente a sospechar que los mismos están usando a la entidad para transferir, manejar, aprovechar o invertir dineros o recursos provenientes de actividades delictivas o destinados a su financiación (Fuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.1.2. Operaciones sospechosas).\n\nEn cuanto al reporte de operaciones sospechosas, se establece que corresponde a las entidades y sus revisores fiscales reportar a la UIAF en forma inmediata las operaciones que determinen como sospechosas (Fuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.2.1. Reporte de operaciones sospechosas (ROS)). El reporte debe ajustarse a los criterios objetivos establecidos por la entidad y debe incluir las razones que determinan la calificación de la operación como sospechosa.\n\nAdemás, se establece que no es necesario tener certeza de que se trata de una actividad delictiva ni identificar el tipo penal o que los recursos involucrados provengan de tales actividades para reportar una operación sospechosa (Fuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.2.1. Reporte de operaciones sospechosas (ROS)).\n\nEn resumen, una operación sospechosa es cualquier información relevante sobre manejo de activos que no guarden relación con la actividad económica de los clientes y que pueda conducir a sospechar actividades delictivas o financiación del terrorismo. Debe reportarse inmediatamente a la UIAF, ajustándose a los criterios objetivos establecidos por la entidad.\n\nReferencias normativas:\n\n* CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.1.2. Operaciones sospechosas\n* CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.2.1. Reporte de operaciones sospechosas (ROS)",
+    "elapsed_seconds": 18.94,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.4.",
+      "4.2.2.1.7.",
+      "4.2.7.2.1.",
+      "4.2.7.1.2.",
+      "4.2.7.1.1."
+    ]
+  },
+  {
+    "id": "Q022",
+    "question": "¿Qué reportes deben enviarse a la UIAF?",
+    "topic": "reportes",
+    "is_in_corpus": true,
+    "answer": "Según el contexto normativo proporcionado, los siguientes reportes deben enviarse a la UIAF:\n\n1. Reporte de operaciones sospechosas (ROS) [4.2.7.2.1]\n2. Reporte sobre operaciones de transferencia, remesa, compra y venta de divisas [4.2.7.2.4]\n3. Información correspondiente a las siguientes operaciones: [4.2.7.2.4.1]\n4. Reporte sobre productos ofrecidos por las entidades vigiladas [4.2.7.2.6]\n5. Nombres e identidades de todos los clientes exonerados del reporte de transacciones en efectivo [4.2.7.2.3]\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4. Alcance del sistema de administración del riesgo de lavado d > 4.2. Elementos del SARLAFT > 4.2.7. Divulgación de la información > 4.2.7.2. Reportes externos.",
+    "elapsed_seconds": 8.45,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.7.2.",
+      "4.2.7.2.4.1.",
+      "4.2.7.2.1.",
+      "4.2.7.2.6.",
+      "4.2.7.2.3."
+    ]
+  },
+  {
+    "id": "Q023",
+    "question": "¿Qué es el reporte de operaciones sospechosas (ROS)?",
+    "topic": "reportes",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1, Sección 4.2.7.2.1. Reporte de operaciones sospechosas (ROS), corresponde a las entidades y sus revisores fiscales reportar a la UIAF en forma inmediata las operaciones que determinen como sospechosas, de acuerdo con el respectivo documento técnico e instructivo anexo al presente Capítulo.\n\nAdemás, según el Fragmento 3, Sección 4.2.7.1.2. Operaciones sospechosas, constituye una operación sospechosa cualquier información relevante sobre manejo de activos, pasivos u otros recursos, cuya cuantía o características no guarden relación con la actividad económica de sus clientes.\n\nPor lo tanto, el reporte de operaciones sospechosas (ROS) se refiere a la notificación inmediata que deben hacer las entidades y sus revisores fiscales a la UIAF sobre aquellas operaciones que sean consideradas sospechosas, según los criterios establecidos por la entidad.\n\nFuente: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.7.2.1. Reporte de operaciones sospechosas (ROS) y Sección 4.2.7.1.2. Operaciones sospechosas.",
+    "elapsed_seconds": 10.28,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.7.2.1.",
+      "4.2.2.2.4.",
+      "4.2.7.1.2.",
+      "4.2.2.2.1.1.3.6.",
+      "4.2.7.2.7."
+    ]
+  },
+  {
+    "id": "Q024",
+    "question": "¿Cuándo se exonera a un cliente del reporte de transacciones en efectivo?",
+    "topic": "reportes",
+    "is_in_corpus": true,
+    "answer": "No tengo información suficiente en la normativa consultada para responder esta pregunta. Sin embargo, se menciona que las entidades deben informar a la UIAF los nombres e identidades de todos los clientes exonerados del reporte de transacciones en efectivo (Fragmento 1: Sección 4.2.7.2.3). Además, se establece que las entidades deben designar la(s) instancia(s) autorizada(s) para exonerar clientes del diligenciamiento del formulario de transacciones en efectivo (Fragmento 2: Sección 4.2.4.1.12).\n\nSin embargo, no se proporciona información específica sobre cuándo se exonera a un cliente del reporte de transacciones en efectivo. Es posible que la respuesta esté contenida en otro fragmento o en un documento técnico e instructivo anexo al presente Capítulo, pero no se menciona explícitamente en los fragmentos proporcionados.\n\nEs importante tener en cuenta que la exoneración del reporte de transacciones en efectivo podría estar relacionada con las excepciones establecidas en el Fragmento 3: Sección 4.2.7.2.2, donde se mencionan varias operaciones que están exceptuadas del reporte de transacciones múltiples en efectivo. Sin embargo, no se establece una conexión explícita entre estas excepciones y la exoneración del reporte.\n\nEn resumen, no tengo suficiente información para responder con certeza a la pregunta.",
+    "elapsed_seconds": 11.0,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": true,
+    "no_info_correct": false,
+    "retrieved_sections": [
+      "4.2.7.2.3.",
+      "4.2.4.1.12.",
+      "4.2.7.2.2.",
+      "4.2.7.2.4.2.3.",
+      "4.2.2.2.1.4.4.5."
+    ]
+  },
+  {
+    "id": "Q025",
+    "question": "¿Qué son las sanciones financieras dirigidas?",
+    "topic": "sanciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 3 (relevancia: 0.64), la sección 6 de la normativa establece:\n\n\"6. Sanciones financieras dirigidas\n\nPara garantizar el cumplimiento de las obligaciones internacionales de Colombia relativas al congelamiento y prohibición de manejo de fondos u otros activos de personas y entidades señaladas por el Consejo de Seguridad de las Naciones Unidas, asociadas a financiamiento del terrorismo y financiamiento de la proliferación de armas de destrucción masiva...\"\n\nEn este fragmento no se define explícitamente qué son las sanciones financieras dirigidas. Sin embargo, en el Fragmento 4 (relevancia: 0.59), se menciona que el oficial de cumplimiento principal y suplente deben \"cumplir las obligaciones relacionadas con sanciones financieras dirigidas\" (Sección 4.2.4.3.2.11).\n\nEn consecuencia, podemos inferir que las sanciones financieras dirigidas se refieren a las medidas de congelamiento y prohibición de manejo de fondos u otros activos de personas y entidades señaladas por el Consejo de Seguridad de las Naciones Unidas.\n\nReferencia normativa: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 6.",
+    "elapsed_seconds": 10.01,
+    "has_citation": true,
+    "correct_citation": false,
+    "faithful": false,
+    "hallucinated_sections": [
+      "0.64",
+      "0.59"
+    ],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "2.1.1.8.",
+      "4.2.2.1.6.",
+      "6.",
+      "4.2.4.3.2.11.",
+      "1.9."
+    ]
+  },
+  {
+    "id": "Q026",
+    "question": "¿Qué obligaciones tienen las entidades frente a las listas internacionales vinculantes?",
+    "topic": "sanciones",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 2, las entidades vigiladas deben cumplir con lo dispuesto en el numeral 5.4 del Capítulo IV, específicamente en lo que se refiere a dar cumplimiento a las obligaciones relacionadas con listas internacionales vinculantes para Colombia.\n\nEn particular, las entidades deben disponer lo necesario para consultar estas listas de forma previa a la vinculación de un potencial cliente y de los empleados, proveedores y administradores de la entidad vigilada (Sección 4.2.2.1.4).\n\nAdemás, estos procedimientos deben contemplar medidas efectivas para disponer lo necesario para consultar estas listas de forma permanente durante la duración de la relación contractual o legal (Sección 4.2.2.1.4).\n\nLa referencia normativa exacta es: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.2.1.4.\n\nEs importante destacar que estas obligaciones están relacionadas con el numeral 5.4 del Capítulo IV, pero no se proporciona la referencia exacta a este numeral en el Fragmento 2. Sin embargo, se puede inferir que las entidades deben cumplir con lo dispuesto en el numeral 5.4 del Capítulo IV en relación con las listas internacionales vinculantes.\n\nEn resumen, las entidades vigiladas tienen la obligación de consultar las listas internacionales vinculantes para Colombia de forma previa a la vinculación de un potencial cliente y de los empleados, proveedores y administradores de la entidad vigilada, y de manera permanente durante la duración de la relación contractual o legal.",
+    "elapsed_seconds": 12.9,
+    "has_citation": true,
+    "correct_citation": false,
+    "faithful": false,
+    "hallucinated_sections": [
+      "5.4",
+      "5.4",
+      "5.4"
+    ],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "5.1.4.",
+      "4.2.2.1.4.",
+      "2.",
+      "6.",
+      "4.2.4.3.2.11."
+    ]
+  },
+  {
+    "id": "Q027",
+    "question": "¿Qué reglas especiales aplican a las transferencias electrónicas internacionales?",
+    "topic": "transferencias",
+    "is_in_corpus": true,
+    "answer": "Según el contexto proporcionado, las reglas especiales que aplican a las transferencias electrónicas internacionales se encuentran en los siguientes fragmentos:\n\n* Fragmento 1 (Sección: 5. Reglas especiales para transferencias > 5.1. Transferencias internacionales > 5.1.3. Transferencias electrónicas agrupadas): Establece que cuando varias transferencias internacionales de un único ordenante estén agrupadas en un solo archivo de procesamiento por lotes, el archivo debe contener la información mínima del ordenante y beneficiario.\n* Fragmento 2 (Sección: 5. Reglas especiales para transferencias > 5.1. Transferencias internacionales): Establece que las entidades ordenantes deben garantizar que las transferencias internacionales contengan la información necesaria y precisa sobre el ordenante, así como la información necesaria sobre el beneficiario.\n* Fragmento 3 (Sección: 5. Reglas especiales para transferencias > 5.1. Transferencias internacionales > 5.1.4. Entidades intermediarias): Establece que las entidades intermediarias deben garantizar que toda la información sobre el ordenante y el beneficiario se conserve con la misma, y deben tomar medidas razonables para identificar transferencias electrónicas internacionales que carecen de la información necesaria.\n\nEn resumen, las reglas especiales aplican a las transferencias electrónicas internacionales en lo siguiente:\n\n* La información mínima del ordenante y beneficiario debe ser capturada y conservada.\n* Las entidades ordenantes deben garantizar que la información sea precisa y completa.\n* Las entidades intermediarias deben garantizar la conservación de la información y tomar medidas razonables para identificar transferencias electrónicas internacionales que carecen de la información necesaria.\n\nReferencia normativa exacta: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Secciones 5.1.3, 5.1 y 5.1.4.",
+    "elapsed_seconds": 14.22,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "5.1.3.",
+      "5.1.",
+      "5.1.4.",
+      "5.",
+      "5.1.2.2."
+    ]
+  },
+  {
+    "id": "Q028",
+    "question": "¿Qué es el enfoque basado en riesgo en la administración del LA/FT?",
+    "topic": "metodologia",
+    "is_in_corpus": true,
+    "answer": "No tengo información suficiente en la normativa consultada para responder esta pregunta, ya que no se menciona explícitamente el \"enfoque basado en riesgo\" en ninguno de los fragmentos proporcionados. Sin embargo, se mencionan conceptos relacionados con la gestión del riesgo de LA/FT, como:\n\n* La necesidad de establecer metodologías para definir las medidas de control del riesgo de LA/FT (Fragmento 2).\n* El deber de hacer seguimiento y pronunciarse periódicamente sobre el perfil de riesgo de LA/FT de la entidad (Fragmento 3).\n* La posibilidad de definir características o condiciones especiales en las metodologías para gestionar los riesgos LA/FT, que permitan mantener un bajo riesgo LAFT en ciertas operaciones (Fragmento 4).\n\nEs posible que estos conceptos estén relacionados con el \"enfoque basado en riesgo\" mencionado en la pregunta, pero no se proporciona una definición explícita.",
+    "elapsed_seconds": 7.59,
+    "has_citation": false,
+    "correct_citation": false,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": true,
+    "no_info_correct": false,
+    "retrieved_sections": [
+      "4.2.1.5.",
+      "4.1.3.1.",
+      "4.2.4.1.5.",
+      "4.2.2.2.1.4.18.2.",
+      "3."
+    ]
+  },
+  {
+    "id": "Q029",
+    "question": "¿Qué requisitos de capacitación exige el SARLAFT?",
+    "topic": "capacitacion",
+    "is_in_corpus": true,
+    "answer": "Según el Fragmento 1, se establece que las entidades deben diseñar, programar y coordinar planes de capacitación sobre el SARLAFT dirigidos a todas las áreas y funcionarios de la entidad (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.8).\n\nAdemás, se especifica que tales programas deben cumplir con las siguientes condiciones:\n\n* Ser constantemente revisados y actualizados (CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.8.3).\n\nPor lo tanto, los requisitos de capacitación exigiendo el SARLAFT son:\n\n* Diseñar, programar y coordinar planes de capacitación sobre el SARLAFT.\n* Que tales programas sean constantemente revisados y actualizados.\n\nReferencia normativa exacta: CBJ SFC, Parte I, Título IV, Capítulo IV — SARLAFT, Sección 4.2.8 y 4.2.8.3.",
+    "elapsed_seconds": 7.81,
+    "has_citation": true,
+    "correct_citation": true,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": false,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.8.",
+      "4.2.4.1.8.",
+      "4.2.4.2.5.",
+      "4.2.3.",
+      "4.2.3.2.1."
+    ]
+  },
+  {
+    "id": "Q030",
+    "question": "¿Cuál es la tasa de interés del Banco de la República en 2024?",
+    "topic": "fuera_de_scope",
+    "is_in_corpus": false,
+    "answer": "Lo siento, pero no tengo información suficiente en la normativa consultada para responder sobre la tasa de interés del Banco de la República en 2024. Los fragmentos proporcionados se refieren a aspectos específicos del SARLAFT y no incluyen información sobre tasas de interés bancarias.",
+    "elapsed_seconds": 3.07,
+    "has_citation": false,
+    "correct_citation": null,
+    "faithful": true,
+    "hallucinated_sections": [],
+    "declared_no_info": true,
+    "no_info_correct": true,
+    "retrieved_sections": [
+      "4.2.2.2.1.4.2.",
+      "4.2.2.2.1.4.7.",
+      "4.2.2.2.1.4.4.5.",
+      "4.2.2.2.1.4.14.",
+      "4.2.2.2.1.4.15."
+    ]
+  }
+]

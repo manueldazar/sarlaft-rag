@@ -1,0 +1,15 @@
+# Embeddings
+sentence-transformers==3.3.1
+
+# Vector store
+chromadb==0.6.3
+
+# LLM (Fase 4)
+ollama==0.4.7
+
+# Interfaz (Fase 6)
+streamlit==1.42.0
+
+# Utilidades
+python-dotenv==1.0.1
+tqdm==4.67.1

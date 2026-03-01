@@ -1,0 +1,32 @@
+{
+  "timestamp": "20260227_154510",
+  "n_questions": 30,
+  "k_values": [
+    3,
+    5
+  ],
+  "retrieval": {
+    "n_questions": 29,
+    "precision_at_3": 0.4828,
+    "recall_at_3": 0.8678,
+    "context_relevance_at_3": 0.6956,
+    "precision_at_5": 0.3862,
+    "recall_at_5": 0.931,
+    "context_relevance_at_5": 0.6684,
+    "mrr": 0.8161,
+    "hit_rate": 1.0,
+    "mrr_easy": 0.8485,
+    "mrr_medium": 0.8056,
+    "mrr_hard": 0.75
+  },
+  "generation": {
+    "n_questions": 30,
+    "n_in_corpus": 29,
+    "n_out_of_corpus": 1,
+    "avg_response_time_s": 10.43,
+    "citation_rate": 0.9655,
+    "correct_citation_rate": 0.8621,
+    "faithfulness_rate": 0.8276,
+    "no_info_detection_rate": 1.0
+  }
+}

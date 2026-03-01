@@ -1,0 +1,52 @@
+SARLAFT PARSING REPORT
+==================================================
+
+Total chunks: 341
+Total characters: 144,778
+Avg chunk size: 425 chars
+Min chunk size: 21 chars
+Max chunk size: 4991 chars
+Median chunk size: 260 chars
+
+Chunks by depth:
+  Depth 0: 1 chunks
+  Depth 1: 7 chunks
+  Depth 2: 43 chunks
+  Depth 3: 21 chunks
+  Depth 4: 57 chunks
+  Depth 5: 60 chunks
+  Depth 6: 44 chunks
+  Depth 7: 61 chunks
+  Depth 8: 32 chunks
+  Depth 9: 12 chunks
+  Depth 10: 3 chunks
+
+Chunks by type:
+  definition: 36
+  intro: 1
+  section: 304
+
+Size distribution:
+  0-200 chars: 119 chunks
+  200-500 chars: 134 chunks
+  500-1000 chars: 62 chunks
+  1000-2000 chars: 19 chunks
+  2000-3000 chars: 5 chunks
+  3000-5000 chars: 2 chunks
+
+--- Potential Issues ---
+Very small chunks (<100 chars): 16
+  SARLAFT_1.31: 97 chars - Riesgo residual o neto
+  SARLAFT_2.1.2: 95 chars - Deberes respecto del funcionario responsable
+  SARLAFT_4.2.2.1: 57 chars - Requisitos que deben cumplir los procedimientos
+  SARLAFT_4.2.2.2.1.1: 66 chars - Procedimientos ordinarios de conocimiento del cliente
+  SARLAFT_4.2.2.2.1.1.1: 29 chars - Identificación
+  SARLAFT_4.2.2.2.1.1.2: 33 chars - Relación comercial
+  SARLAFT_4.2.2.2.1.1.3: 26 chars - Información
+  SARLAFT_4.2.2.2.1.4.4: 41 chars - En los siguientes seguros
+  SARLAFT_4.2.2.2.1.4.18: 81 chars - Los aportes de bajo monto en fondos voluntarios de pensión (
+  SARLAFT_4.2.2.2.1.5: 45 chars - Personas expuestas políticamente
+
+Oversized chunks (>3000 chars): 2
+  SARLAFT_4.2.2.2.1_p2: 4991 chars - Conocimiento del cliente (parte 2)
+  SARLAFT_4.2.2.2.1.1.1.1: 3425 chars - Identificación del cliente. Las entidades vigiladas deben co

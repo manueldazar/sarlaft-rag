@@ -1,0 +1,34 @@
+# Entorno virtual
+.venv/
+
+# Variables de entorno
+.env
+
+# Base de datos vectorial (generada; re-crear con index_chunks.py)
+data/chroma_db/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Claude Code (interno)
+.claude/
+CLAUDE_CODE_INSTRUCTIONS.md
+INSTRUCCION_PARENT_CHILD_RETRIEVAL.md
+
+# Artefactos de editores y Windows
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*:Zone.Identifier
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribución Python
+*.egg-info/
+dist/
+build/
